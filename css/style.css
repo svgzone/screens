@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.container {
+  background-color: aqua;
+}
+
+body {
+  font-size: 30rem;
+}
+
+/*# sourceMappingURL=style.css.map */
